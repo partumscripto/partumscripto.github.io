@@ -1,3 +1,3 @@
-= Partum Scriptum
+# Partum Scriptum
 
 My writing blog.
