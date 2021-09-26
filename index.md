@@ -4,7 +4,8 @@ My writing blog.
 
 ## Latest writing
 
-* [20210926-treasure-map.md](The Treasure Map)
+* [The Treasure Map](20210926-treasure-map.md)
+* [Riddles](20210926-riddles.md)
 
 ## About
 
