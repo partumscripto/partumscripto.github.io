@@ -1,5 +1,7 @@
 # The Color World
 
+![Colour of the world](images/colour-world.jpg "Colour of the world")
+
 One day, a man was buying a curtain because he needed a new one. He went to the curtain store and saw a big curtain. So he walked closer and opened it. He was surprised to see a world of colour. Actually, he didn’t know what to call it because he was from a black and white world.
 
 He saw a small boy and he was scared because he had never seen any person in color and found out that he had colors, too. He thought, where am I????????????????????????????????????????????????????
