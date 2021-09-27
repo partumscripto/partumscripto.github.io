@@ -17,7 +17,8 @@ As creative as I can be.
 * [Odd couple](articles/20210927-odd-couple)
 * [My Happy Family](articles/20210927-my-happy-family)
 * [This Is Just To Say](articles/20210927-just-to-say)
-
+* [What manners are important in your life?](articles/20210927-what-manners-are-important-in-your-life)
+* [What is impolite](articles/20210927-what-is-impolite)
 ## About the author
 
 This 9-year old loves writing digitally, mostly from home
