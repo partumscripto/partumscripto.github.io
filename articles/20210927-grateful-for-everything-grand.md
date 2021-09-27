@@ -1,6 +1,6 @@
 # Grateful For Everything Grand
 
-I am raising up my hand
+I am raising up my hand\
 I am telling you what I am grateful for
 
 Grateful for the snow
