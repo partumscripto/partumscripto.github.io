@@ -13,7 +13,7 @@ As creative as I can be.
 * [Being patient](articles/20210927-being-patient)
 * [Colour world](articles/20210927-colour-world)
 * [100 words](articles/20210927-100-words)
-
+* [Grateful For Everything Grand](articles/20210927-gratful-for-everything-grand)
 ## About the author
 
 This 9-year old loves writing digitally, mostly from home
