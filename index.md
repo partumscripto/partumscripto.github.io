@@ -19,6 +19,7 @@ As creative as I can be.
 * [This Is Just To Say](articles/20210927-just-to-say)
 * [What manners are important in your life?](articles/20210927-what-manners-are-important-in-your-life)
 * [What is impolite](articles/20210927-what-is-impolite)
+
 ## About the author
 
 This 9-year old loves writing digitally, mostly from home
