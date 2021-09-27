@@ -12,6 +12,7 @@ As creative as I can be.
 * [Riddles](articles/20210926-riddles)
 * [Being patient](articles/20210927-being-patient)
 * [Colour world](articles/20210927-colour-world)
+* [100 words](articles/20210927-100-words)
 
 ## About the author
 
