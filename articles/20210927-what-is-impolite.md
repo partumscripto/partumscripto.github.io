@@ -1,8 +1,9 @@
 # What is impolite?
-- opening your mouth when eating
-- talking when you are eating
-- dropping your left hand when eating
-- complaining
-- lying 
-- dying
-- bullying 
+
+- Opening your mouth when eating
+- Talking when you are eating
+- Dropping your left hand when eating
+- Complaining
+- Lying 
+- Dying
+- Bullying 
