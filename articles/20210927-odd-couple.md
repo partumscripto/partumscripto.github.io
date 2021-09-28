@@ -1,11 +1,11 @@
 # Odd Couple 
 
-A ship carrying animals to a zoo in Argentina is blown off course. An iguana and a chimpanzee, the only survivors, find themselves shipwrecked in Antarctica. Write a story about a friendship that forms between these two animals and the penguin that comes to their aid. (more than 200 words)
-
-* chimp and iguana
-* chimpanzee is an ape
-* an ape = swings by arms from branches; no tails
-* a monkey = walks along the top of a branch; tails
+> A ship carrying animals to a zoo in Argentina is blown off course. An iguana and a chimpanzee, the only survivors, find themselves shipwrecked in Antarctica. Write a story about a friendship that forms between these two animals and the penguin that comes to their aid. (more than 200 words)
+>
+> * chimp and iguana
+> * chimpanzee is an ape
+> * an ape = swings by arms from branches; no tails
+> * a monkey = walks along the top of a branch; tails
  
 One day, a ship from Argentina was blown off course, and the only survivors found their ship shipwrecked in Antarctica. They arrived on shore and said to each other, “I am so hungry!”
 
