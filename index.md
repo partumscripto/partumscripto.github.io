@@ -10,9 +10,9 @@ As creative as I can be.
 
 ## Latest writings (poems, short stories, freewriting)
 
-1. [Colour World](articles/20210927-colour-world)
 1. [My Happy Family is Good to Me, If You Don’t Believe Me, Come and See!](articles/20210927-my-happy-family)
 1. [Being Patient](articles/20210927-being-patient)
+1. [Colour World](articles/20210927-colour-world)
 1. [Grateful For Everything Grand](articles/20210927-grateful-for-everything-grand)
 1. [The Treasure Map](articles/20210926-treasure-map)
 1. [What is Impolite?](articles/20210927-what-is-impolite) 
