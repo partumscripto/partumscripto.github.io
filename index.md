@@ -34,6 +34,6 @@ As creative as I can be.
 ## About the author
 
 This 9-year old loves writing digitally, mostly from home
-but also occasionally from Room 712!
+but also occasionally from Room 712! REMEMBER!This boy gets straight A's!!!
 
 ![Myself](/images/photo.jpg "Photo of me")
