@@ -5,4 +5,4 @@
 - Sit properly
 - Say hello
 - Clean up your toys
-- take care of my brother
+- Take care of my brother
