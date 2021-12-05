@@ -24,6 +24,8 @@ As creative as I can be.
 1. [Letter to Mr. Lewis](articles/20210927-letter)
 1. [Escape the Room](articles/20211205-escape-the-room)
 1. [The Unexpected](articles/20211205-the-unexpected)
+1. [Banana the Eater](articles/20211205-banana-the-eater)
+
 ## About the author
 
 This 9-year old loves writing digitally, mostly from home
