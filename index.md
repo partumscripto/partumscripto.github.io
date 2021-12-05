@@ -29,6 +29,7 @@ As creative as I can be.
 1. [Poem for the Greenland Shark](articles/20211205-poem-for-the-greenland-shark)
 1. [The Lost Plane](articles/20211205-the-lost-plane)
 1. [Mr.Dopple Augustus Brochure Plan](articles/20211205-mr-dopple-augustus-brochure-plan)
+1. [A Part of Augustus' Secret Diary](articles/20211205-a-part-of-augustus-diary)
 
 ## About the author
 
