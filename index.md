@@ -28,6 +28,7 @@ As creative as I can be.
 1. [Acrostic Name Poem](articles/20211205-acrostis-name-poem)
 1. [Poem for the Greenland Shark](articles/20211205-poem-for-the-greenland-shark)
 1. [The Lost Plane](articles/20211205-the-lost-plane)
+1. [Mr.Dopple Augustus Brochure Plan](articles/20211205-mr-dopple-augustus-brochure-plan)
 
 ## About the author
 
