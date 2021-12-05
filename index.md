@@ -26,6 +26,7 @@ As creative as I can be.
 1. [The Unexpected](articles/20211205-the-unexpected)
 1. [Banana the Eater](articles/20211205-banana-the-eater)
 1. [Acrostic Name Poem](articles/20211205-acrostis-name-poem)
+1. [Poem for the Greenland Shark](articles/20211205-poem-for-the-greenland-shark)
 
 ## About the author
 
