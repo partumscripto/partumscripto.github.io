@@ -70,7 +70,7 @@ Better security – never have to worry about the robot hacking into your accoun
 It won’t break down like the Mr. Hunger Hunger robot 
 Special Edition Mr. Gopple-Gustus is always learning and getting smarter
 
-SIX
+## SIX
 > Do you know how to buy one now? 
 > Spend more money, get more honey
 
